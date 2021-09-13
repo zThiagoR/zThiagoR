@@ -1,6 +1,6 @@
 ## Olá, me chamo Thiago | Hello, my name is Thiago!👋😃
 
-* **Tenho 21 anos, eu fazia faculdade de Ciências da computação, e ainda pretendo fazer a nova faculdade 👨‍🎓**.
+* **Tenho 22 anos, eu fazia faculdade de Ciências da computação, e ainda pretendo fazer a nova faculdade 👨‍🎓**.
 * **Eu amo a tecnologia e fazer algo do que eu gosto, desejo trabalhar com front-end, back-end, desenvolvimento de jogos, e até mesmo experimentando coisas novas pelos horizontes. 😅**
 * **Amo participar de bootcamps & desafios para realizar os projetos práticos e usar a minha criatividade para se adaptar nela**
 
