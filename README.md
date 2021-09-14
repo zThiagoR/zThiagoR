@@ -12,7 +12,7 @@
 
 
 ## 📊 **Meu status no Github**
----
+
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,7 +26,6 @@
 <br>
 
 ## 🙆‍♂️ **Linguagens**
----
 
 <div>
 
@@ -43,7 +42,6 @@
 <br>
 
 ## 💼 **Ferramentas**
----
 
 <div>
 
@@ -56,7 +54,6 @@
 <br>
 
 ## 🎲 **Banco de Dados**
----
 <img Title = "MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
 
 
