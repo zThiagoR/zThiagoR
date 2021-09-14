@@ -1,37 +1,63 @@
-## Olá, me chamo Thiago | Hello, my name is Thiago!👋😃
+## Olá, me chamo **Thiago** !👋😃
 
-* **Tenho 22 anos, eu fazia faculdade de Ciências da computação, e ainda pretendo fazer a nova faculdade 👨‍🎓**.
-* **Eu amo a tecnologia e fazer algo do que eu gosto, desejo trabalhar com front-end, back-end, desenvolvimento de jogos, e até mesmo experimentando coisas novas pelos horizontes. 😅**
-* **Amo participar de bootcamps & desafios para realizar os projetos práticos e usar a minha criatividade para se adaptar nela**
+`Estudante de Ciências de Computação`
+<br>
+`Desenvolvedor de bots Discord.JS`
+<br>
+`Javascript Developer`
+<br>
 
- No momento da minha rotina, fico estudando e pesquisando por ai, fazendo serviço freelance no caso os BOT's para o Discord que trabalho com o **NodeJS** e a biblioteca **Discord.JS**, conversando com minha namorada, jogando com meus amigos, e tals.
 
-----
+**Eu amo a tecnologia e fazer algo do que eu gosto, desejo trabalhar com front-end, back-end, desenvolvimento de jogos, e até mesmo experimentando coisas novas pelos horizontes. Claro um pouco de cada vez, não irei exagerar. 😅**
 
-# 🚀 Minhas habilidades:
-### 🙆‍♂️ Linguagens:
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+## 📊 **Meu status no Github**
+---
 
-### 💼 Ferramentas:
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zThiagoR&show_icons=true&theme=onedark&custom_title=Status%20no%20GitHub&hide_border=true&count_private=true&hide_title=true&hide=prs,issues&locale=pt-br" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zThiagoR&layout=compact&locale=pt-br" />
+</a>
+</div>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<br>
 
-### 🎲 Banco de Dados:
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+## 🙆‍♂️ **Linguagens**
+---
 
-----
+<div>
 
-# 📝 Futuramente estudar:
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<img Title = "HTML 5" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" align = "center" />
 
+<img Title = "CSS 3" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" align = "center">
+
+<img Title = "Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align = "center" heigth = "32" width = "32"/>
+
+<img Title = "Node.JS" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align = "center" alt="Nodejs"/>
+
+</div>
+
+<br>
+
+## 💼 **Ferramentas**
+---
+
+<div>
+
+<img Title = "Visual Studio Code" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
+<img Title = "Windows Terminal" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
+<img Title = "Git" height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+
+</div>
+
+<br>
+
+## 🎲 **Banco de Dados**
+---
+<img Title = "MongoDB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB"/>
 
 
 
