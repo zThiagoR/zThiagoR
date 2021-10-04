@@ -4,7 +4,7 @@
 <br>
 `Desenvolvedor de bots Discord.JS`
 <br>
-`Javascript Developer`
+`Desenvolvedor JavaScript | Front-end`
 <br>
 
 
