@@ -45,4 +45,7 @@
 </div>
 
 
+![snake ainmation](https://raw.githubusercontent.com/zThiagoR/zThiagoR/output/github-contribution-grid-snake.svg)
+
+
 
