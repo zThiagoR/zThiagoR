@@ -4,7 +4,7 @@
 <br>
 `Desenvolvedor de bots Discord.JS`
 <br>
-`Desenvolvedor JavaScript | Front-end`
+`Desenvolvedor FullStack júnior`
 <br>
 
 
