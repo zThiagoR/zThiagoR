@@ -11,9 +11,8 @@
 
 ✍🏻**Sobre mim**
 
-**Eu amo a tecnologia e fazer algo do que eu gosto, desejo trabalhar com front-end, back-end, desenvolvimento de jogos, e até mesmo experimentando coisas novas pelos horizontes. Claro um pouco de cada vez, não irei exagerar. 😅**
+**Eu amo a tecnologia e fazer algo do que eu gosto, desejo trabalhar fullstack, desenvolvimento de jogos, e até mesmo experimentando coisas novas pelos horizontes. Claro um pouco de cada vez, não irei exagerar. 😅**
 
-<br>
 
 ## 🙆‍♂️ **Linguagens e frameworks**
 
