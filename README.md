@@ -6,7 +6,7 @@
 
 `Estudante de Ciências de Computação`
 <br>
-`Desenvolvedor FullStack júnior`
+`Desenvolvedor Back-end júnior`
 <br>
 
 ✍🏻**Sobre mim**
