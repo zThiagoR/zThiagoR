@@ -7,7 +7,7 @@
 
 `Estudante de Ciências de Computação`
 <br>
-`Desenvolvedor Back-end júnior`
+`Desenvolvedor Fullstack Node/React júnior`
 <br>
 
 **Eu amo a tecnologia e fazer algo do que eu gosto, desejo trabalhar fullstack, desenvolvimento de jogos, e até mesmo experimentando coisas novas pelos horizontes. Claro um pouco de cada vez, não irei exagerar. 😅**
@@ -36,7 +36,7 @@
 
 
 ## 📊 **Meu status no Github**
-
+<div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zThiagoR&show_icons=true&theme=onedark&custom_title=Status%20no%20GitHub&hide_border=true&count_private=true&hide_title=true&locale=pt-br" />
 </a>
