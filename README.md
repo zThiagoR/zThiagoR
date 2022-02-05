@@ -1,4 +1,5 @@
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ## Olá, me chamo **Thiago** !👋😃
 [![wakatime](https://wakatime.com/badge/user/21e16854-6312-47be-96c3-9762b3b611f7.svg)](https://wakatime.com/@21e16854-6312-47be-96c3-9762b3b611f7)
