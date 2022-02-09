@@ -37,10 +37,11 @@
 
 ## 📊 **Meu status no Github**
 <div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zThiagoR&show_icons=true&theme=onedark&custom_title=Status%20no%20GitHub&hide_border=true&count_private=true&hide_title=true&locale=pt-br" />
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zThiagoR&layout=compact&locale=pt-br" />
+  <a href="https://github.com/BarretoJ20">
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarretoJ20&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+    
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarretoJ20&layout=compact&langs_count=7&theme=ocean_dark"/>
 </div>
 
 ![snake ainmation](https://raw.githubusercontent.com/zThiagoR/zThiagoR/output/github-contribution-grid-snake.svg)
