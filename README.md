@@ -38,10 +38,10 @@
 ## 📊 **Meu status no Github**
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zThiagoR&show_icons=true&theme=onedark&custom_title=Status%20no%20GitHub&hide_border=true&count_private=true&hide_title=true&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zThiagoR&show_icons=true&theme=onedark&custom_title=Status%20no%20GitHub&hide_border=true&count_private=true&hide_title=true&locale=pt-br" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zThiagoR&layout=compact&locale=pt-br" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zThiagoR&layout=compact&locale=pt-br" />
 </a>
 </div>
 
